@@ -1,1 +1,1 @@
-# jini24.in
+# jini24
